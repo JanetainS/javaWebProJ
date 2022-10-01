@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Studying_by_myself_javaWeb">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="Studying_by_myself_javaWeb"/>
+        <property name="java-output-path" value="/Studying_by_myself_javaWeb/build/classes"/>
+    </wb-module>
+</project-modules>
